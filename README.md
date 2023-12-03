@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mamdouh Ali</h1>
 <h3 align="center">A Data Analyst and Business Intelligence Specialist</h3>
 
-# Portfolio:
-## Visit [My Website](https://mamdouh-ali-hamza.github.io/)
+## See [My Portfolio](https://mamdouh-ali-hamza.github.io/)
 
 <p align="center">
 <a href="https://mamdouh-ali-hamza.github.io/">

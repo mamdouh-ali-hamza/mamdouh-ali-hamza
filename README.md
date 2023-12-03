@@ -5,6 +5,15 @@
 # Portfolio:
 ## Visit [My Website](https://mamdouh-ali-hamza.github.io/)
 
+<p align="center">
+<a href="https://mamdouh-ali-hamza.github.io/">
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-128.png"/>
+</a>
+<a href="https://www.linkedin.com/in/mamdouh-ali-hamza/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+</p>
 
 
 
